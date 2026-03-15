@@ -6,7 +6,11 @@
       "Bash(npm run:*)",
       "Bash(npm i:*)",
       "Bash(git rm:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(git branch:*)",
+      "Bash(npm info:*)"
     ]
   }
 }
